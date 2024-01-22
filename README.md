@@ -12,7 +12,7 @@ I'm a 21-year-old developer based in Morocco, and I'm passionate about crafting 
 - Next.js
 - TypeScript
 - Tailwind
-- Framer-Motion
+- Bootstrap
 
 ### Version Control
 - Git
@@ -30,12 +30,11 @@ I'm a 21-year-old developer based in Morocco, and I'm passionate about crafting 
 - Postman
 
 ### Others
-- Zustand
 - Scrum
 - Jira
 
 ## ✨ Fun Facts
-- I love Solving leetCode Problemes and learn about data stractures and algorithms.
+- I love Solving leetcode Problemes and learn about data stractures and algorithms.
 - As a kid, I wanted to be an astronaut.
 
 ## 📫 Contact

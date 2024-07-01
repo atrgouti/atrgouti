@@ -1,9 +1,9 @@
 # Hi, I'm Bilal! 👋🏽
 
-I'm a 21-year-old developer based in Morocco, and I'm passionate about crafting digital experiences.
+I'm a 22-year-old developer based in Morocco, and I'm passionate about crafting digital experiences.
 
 - Check out my [website](https://atrgouti.me) to learn more about me.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/yourlinkedin/).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/atrgouti).
   
 ## 📦 Toolbox
 
@@ -20,6 +20,8 @@ I'm a 21-year-old developer based in Morocco, and I'm passionate about crafting 
 
 ### Backend Development
 - PHP
+- Laravel
+- Mongodb
 - MySql
 - Supabase
 - Firebase
